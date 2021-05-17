@@ -1,0 +1,8 @@
+Daire-3
+
+Alan = 80(m^2)
+Bulunduğu Kat - Kat Sayısı = 5-5
+Balkon = yok
+Asansör = yok
+
+Fiyat = 350.000

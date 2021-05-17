@@ -1,0 +1,8 @@
+Villa-3 
+
+Alan = 320(m^2)
+Bahçe Alanı = 100(m^2)
+Kapalı Garaj = var
+Tipi = triplex
+
+Fiyat = 3.500.000

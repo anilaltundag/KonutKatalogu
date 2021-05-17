@@ -1,0 +1,8 @@
+Daire-2
+
+Alan = 150(m^2)
+Bulunduğu Kat - Kat Sayısı = 6-15
+Balkon = var
+Asansör = var
+
+Fiyat = 800.000

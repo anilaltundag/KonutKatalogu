@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "konut_katalogu_uygulaması/1.0.0": {
+        "runtime": {
+          "konut_katalogu_uygulaması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "konut_katalogu_uygulaması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

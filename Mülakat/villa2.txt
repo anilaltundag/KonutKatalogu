@@ -1,0 +1,8 @@
+Villa-2
+
+Alan = 400(m^2)
+Bahçe Alanı = 300(m^2)
+Kapalı Garaj = var
+Tipi = triplex
+
+Fiyat = 7.000.000

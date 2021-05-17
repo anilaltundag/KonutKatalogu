@@ -1,0 +1,8 @@
+Villa-1
+
+Alan = 250(m^2)
+Bahçe Alanı = 50(m^2)
+Kapalı Garaj = yok
+Tipi = duplex
+
+Fiyat = 1.000.000
